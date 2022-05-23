@@ -2,6 +2,8 @@
 
 - [Singleton](https://github.com/hikmet-cakir/design-patterns/tree/main/singleton)
 
+- [Builder](https://github.com/hikmet-cakir/design-patterns/tree/main/builder)
+
 ### Technology Stack
 
 - Java 8+
