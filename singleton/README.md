@@ -1,3 +1,3 @@
 # Singleton Design Pattern
 
-- You can reach singleton design pattern's explaine at this [link](https://github.com/hikmet-cakir/design-patterns/tree/main/singleton)
+- You can reach singleton design pattern's explaine at this [link](https://hikmetcakir.medium.com/singleton-design-pattern-b183f2ed5dec)
