@@ -4,6 +4,8 @@
 
 - [Builder](https://github.com/hikmet-cakir/design-patterns/tree/main/builder)
 
+- [Factory](https://github.com/hikmet-cakir/design-patterns/tree/main/factory)
+
 ### Technology Stack
 
 - Java 8+
