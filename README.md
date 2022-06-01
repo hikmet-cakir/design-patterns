@@ -6,6 +6,8 @@
 
 - [Factory](https://github.com/hikmet-cakir/design-patterns/tree/main/factory)
 
+- [Strategy](https://github.com/hikmet-cakir/design-patterns/tree/main/strategy)
+
 ### Technology Stack
 
 - Java 8+
