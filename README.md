@@ -13,3 +13,9 @@
 - Java 8+
 - JUnit 4.12
 - Hamcrest All 1.3
+
+
+### How To
+
+- [How to Compile and Run Java Program from Command Line](https://hikmetcakir.medium.com/how-to-write-java-app-in-command-line-5e74c3319774)
+- [How to Compile and Run JUnit Test Class from Command Line](https://hikmetcakir.medium.com/how-to-run-test-classes-in-command-line-2322da70195f) 
