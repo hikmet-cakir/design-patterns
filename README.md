@@ -8,6 +8,8 @@
 
 - [Strategy](https://github.com/hikmet-cakir/design-patterns/tree/main/strategy)
 
+- [Prototype](https://github.com/hikmet-cakir/design-patterns/tree/main/prototype)
+
 ### Technology Stack
 
 - Java 8+
