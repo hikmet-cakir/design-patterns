@@ -10,6 +10,8 @@
 
 - [Prototype](https://github.com/hikmet-cakir/design-patterns/tree/main/prototype)
 
+- [Facade](https://github.com/hikmet-cakir/design-patterns/tree/main/facade)
+
 ### Technology Stack
 
 - Java 8+
