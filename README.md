@@ -12,6 +12,8 @@
 
 - [Facade](https://github.com/hikmet-cakir/design-patterns/tree/main/facade)
 
+- [Adapter](https://github.com/hikmet-cakir/design-patterns/tree/main/adapter)
+
 ### Technology Stack
 
 - Java 8+
