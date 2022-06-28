@@ -14,6 +14,8 @@
 
 - [Adapter](https://github.com/hikmet-cakir/design-patterns/tree/main/adapter)
 
+- [Command](https://github.com/hikmet-cakir/design-patterns/tree/main/command)
+
 ### Technology Stack
 
 - Java 8+
