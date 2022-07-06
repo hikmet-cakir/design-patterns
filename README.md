@@ -16,6 +16,8 @@
 
 - [Command](https://github.com/hikmet-cakir/design-patterns/tree/main/command)
 
+- [Template Method](https://github.com/hikmet-cakir/design-patterns/tree/main/template-method)
+
 ### Technology Stack
 
 - Java 8+
