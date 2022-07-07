@@ -4,7 +4,7 @@ import static java.util.Arrays.asList;
 
 public class HamburgerFactory {
 
-    public static List<Food> getHamburger(String hamburgerType) throws UnsupportedOperationException {
+    public static List<Food> getHamburgerMaterials(String hamburgerType) throws UnsupportedOperationException {
         switch(hamburgerType) {
             case "Cheeseburger" :
                 return asList(Food.CHEESE, Food.MEATBALL, Food.BREAD, Food.SALT, Food.TOMATO, Food.LETTUCE, Food.ONION);
