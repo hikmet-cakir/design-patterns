@@ -15,8 +15,10 @@ public abstract class Maker {
     abstract boolean bake();
 
     public void make() {
+        System.out.println(type + " is preparing...");
         List<Food> foods = takeMaterialByMeal();
         prepareMaterials(foods);
         bake();
+        System.out.println(type + " making was completed...");
     }
 }

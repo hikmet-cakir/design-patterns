@@ -8,16 +8,20 @@ public class HamburgerMaker extends Maker {
 
     @Override
     List<Food> takeMaterialByMeal() {
-        return null;
+        List<Food> hamburgerMaterials = HamburgerFactory.getHamburgerMaterials(type);
+        System.out.println("Materials were taken...");
+        System.out.println(hamburgerMaterials);
+        return hamburgerMaterials;
     }
 
     @Override
     void prepareMaterials(List<Food> foods) {
-
+        System.out.println("Materials were prepared...");
     }
 
     @Override
     boolean bake() {
-        return false;
-    } 
+        System.out.println("Hamburger was baked...");
+        return true;
+    }
 }
