@@ -20,6 +20,8 @@
 
 - [Observer](https://github.com/hikmet-cakir/design-patterns/tree/main/observer)
 
+- [Bridge](https://github.com/hikmet-cakir/design-patterns/tree/main/bridge)
+
 ### Technology Stack
 
 - Java 8+
