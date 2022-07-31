@@ -18,6 +18,8 @@
 
 - [Template Method](https://github.com/hikmet-cakir/design-patterns/tree/main/template-method)
 
+- [Observer](https://github.com/hikmet-cakir/design-patterns/tree/main/observer)
+
 ### Technology Stack
 
 - Java 8+
