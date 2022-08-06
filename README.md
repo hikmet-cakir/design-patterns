@@ -22,6 +22,8 @@
 
 - [Bridge](https://github.com/hikmet-cakir/design-patterns/tree/main/bridge)
 
+- [Composite](https://github.com/hikmet-cakir/design-patterns/tree/main/composite)
+
 ### Technology Stack
 
 - Java 8+
