@@ -1,32 +1,32 @@
-import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class EventManager {
-    Map<String, List<EventListener>> listeners = new HashMap<>();
 
-    public EventManager(String... operations) {
-        for (String operation : operations) {
-            this.listeners.put(operation, new ArrayList<>());
+    Map<Genre, List<EventListener>> listeners = new HashMap<>();
+
+    public EventManager(Genre... genres) {
+        for (Genre genre : genres) {
+            this.listeners.put(genre, new ArrayList<>());
         }
     }
 
-    public void subscribe(String eventType, EventListener listener) {
-        List<EventListener> users = listeners.get(eventType);
+    public void subscribe(Genre genre, EventListener listener) {
+        List<EventListener> users = listeners.get(genre);
         users.add(listener);
     }
 
-    public void unsubscribe(String eventType, EventListener listener) {
-        List<EventListener> users = listeners.get(eventType);
+    public void unsubscribe(Genre genre, EventListener listener) {
+        List<EventListener> users = listeners.get(genre);
         users.remove(listener);
     }
 
-    public void notify(String eventType, File file) {
-        List<EventListener> users = listeners.get(eventType);
+    public void notify(Genre genre, EventDetail eventDetail) {
+        List<EventListener> users = listeners.get(genre);
         for (EventListener listener : users) {
-            listener.update(eventType, file);
+            listener.update(genre, eventDetail);
         }
     }
 }
