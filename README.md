@@ -24,6 +24,8 @@
 
 - [Composite](https://github.com/hikmet-cakir/design-patterns/tree/main/composite)
 
+- [Chain of Responsibility](https://github.com/hikmet-cakir/design-patterns/tree/main/chain-of-responsibility)
+
 ### Technology Stack
 
 - Java 8+
