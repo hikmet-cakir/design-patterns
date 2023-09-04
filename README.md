@@ -26,6 +26,8 @@
 
 - [Chain of Responsibility](https://github.com/hikmet-cakir/design-patterns/tree/main/chain-of-responsibility)
 
+- [Flyweight](https://medium.com/@hikmetcakir/flyweight-design-pattern-4b3976726b65)
+
 ### Technology Stack
 
 - Java 8+
